@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import Video19 from './components/Video19.vue';
+import Video25 from './components/Video25.vue';
 </script>
 
-<template><Video19 /></template>
+<template><Video25 /></template>
 
 <!-- <style scoped></style> -->
